@@ -2,92 +2,122 @@
   "simulations":[
     {
       "reference":"S-0001",
-      "typeBien": {
+      "natureBien": {
         "code": "N001",
         "libelle": "Automobile"
       },
-      "client":{
+      "customer":{
+        "TypeClient": "Physique",
+        "RS": "PCA",
+        "Tel": "0654343768",
+        "Email": "sfahmi@pca.ma",
+        "ChiffreAffaire": "1000000",
         "nom": "Fahmi",
         "prenom": "Salman",
         "RC": "RC1000001",
         "ICE": "ICE100001"
       },
-      "montantAFinancer": 2000000,
+      "montantHT": 2000000,
       "valide": true
     },
     {
       "reference":"S-0002",
-      "typeBien": {
+      "natureBien": {
         "code": "N001",
         "libelle": "Automobile"
       },
-      "client":{
+      "customer":{
+        "TypeClient": "Physique",
+        "RS": "PCA",
+        "Tel": "0654343768",
+        "Email": "sfahmi@pca.ma",
+        "ChiffreAffaire": "1000000",
         "nom": "Fahmi",
         "prenom": "Salman",
         "RC": "RC1000001",
         "ICE": "ICE100001"
       },
-      "montantAFinancer": 2000000,
+      "montantHT": 2000000,
       "valide": true
     },
     {
       "reference":"S-0003",
-      "typeBien": {
+      "natureBien": {
         "code": "N001",
         "libelle": "Automobile"
       },
-      "client":{
+      "customer":{
+        "TypeClient": "Physique",
+        "RS": "PCA",
+        "Tel": "0654343768",
+        "Email": "sfahmi@pca.ma",
+        "ChiffreAffaire": "1000000",
         "nom": "Fahmi",
         "prenom": "Salman",
         "RC": "RC1000001",
         "ICE": "ICE100001"
       },
-      "montantAFinancer": 2000000,
+      "montantHT": 2000000,
       "valide": true
     },
     {
       "reference":"S-0004",
-      "typeBien": {
+      "natureBien": {
         "code": "N001",
         "libelle": "Automobile"
       },
-      "client":{
+      "customer":{
+        "TypeClient": "Physique",
+        "RS": "PCA",
+        "Tel": "0654343768",
+        "Email": "sfahmi@pca.ma",
+        "ChiffreAffaire": "1000000",
         "nom": "Fahmi",
         "prenom": "Salman",
         "RC": "RC1000001",
         "ICE": "ICE100001"
       },
-      "montantAFinancer": 2000000,
+      "montantHT": 2000000,
       "valide": true
     },
     {
       "reference":"S-0005",
-      "typeBien": {
+      "natureBien": {
         "code": "N001",
         "libelle": "Automobile"
       },
-      "client":{
+      "customer":{
+        "TypeClient": "Physique",
+        "RS": "PCA",
+        "Tel": "0654343768",
+        "Email": "sfahmi@pca.ma",
+        "ChiffreAffaire": "1000000",
         "nom": "Fahmi",
         "prenom": "Salman",
         "RC": "RC1000001",
         "ICE": "ICE100001"
       },
-      "montantAFinancer": 2000000,
+      "montantHT": 2000000,
       "valide": true
     },
     {
       "reference":"S-0006",
-      "typeBien": {
+      "natureBien": {
         "code": "N001",
         "libelle": "Automobile"
       },
-      "client":{
+      "customer":{
+        "TypeClient": "Physique",
+        "RS": "PCA",
+        "Tel": "0654343768",
+        "Email": "sfahmi@pca.ma",
+        "ChiffreAffaire": "1000000",
         "nom": "Fahmi",
         "prenom": "Salman",
         "RC": "RC1000001",
         "ICE": "ICE100001"
       },
-      "montantAFinancer": 2000000,
+      "montantHT": 2000000,
       "valide": true
     }
   ]
