@@ -1,4 +1,56 @@
 {
+  "NatureBiens": [
+    {
+      "id": 0,
+      "bienid": 0,
+      "code": "B02A",
+      "libelle": "Équipements",
+      "tauxVR": 1,
+      "libelleCourt": "MATERIEL I",
+      "categorieContrat": "CBM"
+    },
+    {
+      "id": 1,
+      "bienid": 0,
+      "code": "IB",
+      "libelle": "Automobile",
+      "tauxVR": 10,
+      "libelleCourt": "IMMEUBLE B",
+      "categorieContrat": "CBI"
+    },{
+      "id": 2,
+      "bienid": 0,
+      "code": "B02A",
+      "libelle": "Médical",
+      "tauxVR": 1,
+      "libelleCourt": "MATERIEL I",
+      "categorieContrat": "CBM"
+    },{
+      "id": 3,
+      "bienid": 0,
+      "code": "BT01",
+      "libelle": "Transport",
+      "tauxVR": 1,
+      "libelleCourt": "MATERIEL I",
+      "categorieContrat": "CBM"
+    },{
+      "id": 4,
+      "bienid": 0,
+      "code": "IMM01",
+      "libelle": "Immobilier",
+      "tauxVR": 1,
+      "libelleCourt": "MATERIEL I",
+      "categorieContrat": "CBM"
+    },{
+      "id": 5,
+      "bienid": 0,
+      "code": "BTP",
+      "libelle": "BTP",
+      "tauxVR": 1,
+      "libelleCourt": "MATERIEL I",
+      "categorieContrat": "CBM"
+    }
+  ],
   "simulations":[
     {
       "reference":"S-0001",
