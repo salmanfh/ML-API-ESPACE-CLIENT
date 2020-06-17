@@ -4,6 +4,11 @@
       "id": 1,
       "identifiant": "sfahmi@pca.ma",
       "password": "123456"
+    },
+    {
+      "id": 2,
+      "identifiant": "fahmi@pca.ma",
+      "password": "987654"
     }
   ],
   "loginResponse": {
