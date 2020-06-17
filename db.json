@@ -1,4 +1,25 @@
 {
+  "users":[
+    {
+      "identifiant": "sfahmi@pca.ma",
+      "password": "123456"
+    }
+  ],
+  "loginResponse": {
+    "SID": "7c9e6679-7425-40de-944b-e07fc1f90ae7",
+    "client": {
+      "TypeClient": "Physique",
+      "RS": "PCA",
+      "Tel": "0654343768",
+      "Email": "sfahmi@pca.ma",
+      "ChiffreAffaire": "1000000",
+      "nom": "Fahmi",
+      "prenom": "Salman",
+      "RC": "RC1000001",
+      "RC_Ville": "RC1000001",
+      "ICE": "ICE100001"
+    }
+  },
   "NatureBiens": [
     {
       "id": 0,
