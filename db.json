@@ -1,12 +1,12 @@
 {
   "users":[
     {
-      "cid": "0f8fad5b-d9cb-469f-a165-70867728950e",
+      "sid": "0f8fad5b-d9cb-469f-a165-70867728950e",
       "identifiant": "sfahmi@pca.ma",
       "password": "123456"
     },
     {
-      "cid": "0f8fad5b-d9cb-469f-a165-70867728950A",
+      "sid": "0f8fad5b-d9cb-469f-a165-70867728950A",
       "identifiant": "fahmi@pca.ma",
       "password": "987654"
     }
