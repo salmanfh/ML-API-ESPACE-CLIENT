@@ -5,14 +5,14 @@
       "identifiant": "sfahmi@pca.ma",
       "password": "123456",
       "nom": "Fahmi",
-      "prenom": "Salman",
+      "prenom": "Salman"
     },
     {
       "cc": "0f8fad5b-d9cb-469f-a165-70867728950A",
       "identifiant": "amarrouk@pca.ma",
       "password": "987654",
       "nom": "Achraf",
-      "prenom": "Marrouk",
+      "prenom": "Marrouk"
     }
   ],
   "loginResponse": {
