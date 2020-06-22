@@ -27,7 +27,8 @@
       "prenom": "Salman",
       "RC": "RC1000001",
       "RC_Ville": "RC1000001",
-      "ICE": "ICE100001"
+      "ICE": "ICE100001",
+      "confirmed": true
     }
   },
   "NatureBiens": [
