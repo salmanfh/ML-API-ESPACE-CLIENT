@@ -85,124 +85,238 @@
   ],
   "simulations":[
     {
+      "id": 1,
       "reference":"S-0001",
+      "valide": false,
+      "statut": "En cours",
+      "CodeTypeClient": "2",
+      "ChiffreAffaire": "800000",
+      "montantFinancementHT": 100000,
       "natureBien": {
-        "code": "N001",
-        "libelle": "Automobile"
+        "id": 0,
+        "bienid": 0,
+        "code": "BT01",
+        "libelle": "Transport",
+        "tauxVR": 1,
+        "libelleCourt": "MATERIEL I",
+        "categorieContrat": "CBM"
       },
-      "customer":{
-        "TypeClient": "Physique",
+      "CodeNatureBien": "BT01",
+      "simulations": [
+        {
+          "taux": "%",
+          "plm": 10000,
+          "dureeMois": 108,
+          "montantVR": 1000,
+          "montantEcheanceHT": 1364.24,
+          "montantEcheanceTTC": 1637.09
+        }
+      ],
+      "typeProposition": true,
+      "customer": {
+        "CodeTypeClient": "2",
         "RS": "PCA",
-        "Tel": "0654343768",
+        "Nom": "SALMAN",
+        "Prenom": "SALMAN",
+        "Tel": "90907676",
         "Email": "sfahmi@pca.ma",
-        "ChiffreAffaire": "1000000",
-        "nom": "Fahmi",
-        "prenom": "Salman",
-        "RC": "RC1000001",
-        "ICE": "ICE100001"
-      },
-      "montantHT": 2000000,
-      "valide": false
+        "ChiffreAffaire": "800000"
+      }
     },
     {
+      "id": 2,
       "reference":"S-0002",
+      "valide": false,
+      "statut": "En cours",
+      "CodeTypeClient": "2",
+      "ChiffreAffaire": "800000",
+      "montantFinancementHT": 100000,
       "natureBien": {
-        "code": "N001",
-        "libelle": "Automobile"
+        "id": 0,
+        "bienid": 0,
+        "code": "BT01",
+        "libelle": "Transport",
+        "tauxVR": 1,
+        "libelleCourt": "MATERIEL I",
+        "categorieContrat": "CBM"
       },
-      "customer":{
-        "TypeClient": "Physique",
+      "CodeNatureBien": "BT01",
+      "simulations": [
+        {
+          "taux": "%",
+          "plm": 10000,
+          "dureeMois": 108,
+          "montantVR": 1000,
+          "montantEcheanceHT": 1364.24,
+          "montantEcheanceTTC": 1637.09
+        }
+      ],
+      "typeProposition": true,
+      "customer": {
+        "CodeTypeClient": "2",
         "RS": "PCA",
-        "Tel": "0654343768",
+        "Nom": "SALMAN",
+        "Prenom": "SALMAN",
+        "Tel": "90907676",
         "Email": "sfahmi@pca.ma",
-        "ChiffreAffaire": "1000000",
-        "nom": "Fahmi",
-        "prenom": "Salman",
-        "RC": "RC1000001",
-        "ICE": "ICE100001"
-      },
-      "montantHT": 2000000,
-      "valide": false
+        "ChiffreAffaire": "800000"
+      }
     },
     {
+      "id": 3,
       "reference":"S-0003",
+      "valide": true,
+      "statut": "En étude",
+      "CodeTypeClient": "2",
+      "ChiffreAffaire": "800000",
+      "montantFinancementHT": 100000,
       "natureBien": {
-        "code": "N001",
-        "libelle": "Automobile"
+        "id": 0,
+        "bienid": 0,
+        "code": "BT01",
+        "libelle": "Transport",
+        "tauxVR": 1,
+        "libelleCourt": "MATERIEL I",
+        "categorieContrat": "CBM"
       },
-      "customer":{
-        "TypeClient": "Physique",
+      "CodeNatureBien": "BT01",
+      "simulations": [
+        {
+          "taux": "%",
+          "plm": 10000,
+          "dureeMois": 108,
+          "montantVR": 1000,
+          "montantEcheanceHT": 1364.24,
+          "montantEcheanceTTC": 1637.09
+        }
+      ],
+      "typeProposition": true,
+      "customer": {
+        "CodeTypeClient": "2",
         "RS": "PCA",
-        "Tel": "0654343768",
+        "Nom": "SALMAN",
+        "Prenom": "SALMAN",
+        "Tel": "90907676",
         "Email": "sfahmi@pca.ma",
-        "ChiffreAffaire": "1000000",
-        "nom": "Fahmi",
-        "prenom": "Salman",
-        "RC": "RC1000001",
-        "ICE": "ICE100001"
-      },
-      "montantHT": 2000000,
-      "valide": true
+        "ChiffreAffaire": "800000"
+      }
     },
     {
+      "id": 4,
       "reference":"S-0004",
+      "valide": true,
+      "statut": "En étude",
+      "CodeTypeClient": "2",
+      "ChiffreAffaire": "800000",
+      "montantFinancementHT": 100000,
       "natureBien": {
-        "code": "N001",
-        "libelle": "Automobile"
+        "id": 0,
+        "bienid": 0,
+        "code": "BT01",
+        "libelle": "Transport",
+        "tauxVR": 1,
+        "libelleCourt": "MATERIEL I",
+        "categorieContrat": "CBM"
       },
-      "customer":{
-        "TypeClient": "Physique",
+      "CodeNatureBien": "BT01",
+      "simulations": [
+        {
+          "taux": "%",
+          "plm": 10000,
+          "dureeMois": 108,
+          "montantVR": 1000,
+          "montantEcheanceHT": 1364.24,
+          "montantEcheanceTTC": 1637.09
+        }
+      ],
+      "typeProposition": true,
+      "customer": {
+        "CodeTypeClient": "2",
         "RS": "PCA",
-        "Tel": "0654343768",
+        "Nom": "SALMAN",
+        "Prenom": "SALMAN",
+        "Tel": "90907676",
         "Email": "sfahmi@pca.ma",
-        "ChiffreAffaire": "1000000",
-        "nom": "Fahmi",
-        "prenom": "Salman",
-        "RC": "RC1000001",
-        "ICE": "ICE100001"
-      },
-      "montantHT": 2000000,
-      "valide": true
+        "ChiffreAffaire": "800000"
+      }
     },
     {
+      "id": 5,
       "reference":"S-0005",
+      "valide": true,
+      "statut": "En étude",
+      "CodeTypeClient": "2",
+      "ChiffreAffaire": "800000",
+      "montantFinancementHT": 100000,
       "natureBien": {
-        "code": "N001",
-        "libelle": "Automobile"
+        "id": 0,
+        "bienid": 0,
+        "code": "BT01",
+        "libelle": "Transport",
+        "tauxVR": 1,
+        "libelleCourt": "MATERIEL I",
+        "categorieContrat": "CBM"
       },
-      "customer":{
-        "TypeClient": "Physique",
+      "CodeNatureBien": "BT01",
+      "simulations": [
+        {
+          "taux": "%",
+          "plm": 10000,
+          "dureeMois": 108,
+          "montantVR": 1000,
+          "montantEcheanceHT": 1364.24,
+          "montantEcheanceTTC": 1637.09
+        }
+      ],
+      "typeProposition": true,
+      "customer": {
+        "CodeTypeClient": "2",
         "RS": "PCA",
-        "Tel": "0654343768",
+        "Nom": "SALMAN",
+        "Prenom": "SALMAN",
+        "Tel": "90907676",
         "Email": "sfahmi@pca.ma",
-        "ChiffreAffaire": "1000000",
-        "nom": "Fahmi",
-        "prenom": "Salman",
-        "RC": "RC1000001",
-        "ICE": "ICE100001"
-      },
-      "montantHT": 2000000,
-      "valide": true
+        "ChiffreAffaire": "800000"
+      }
     },
     {
+      "id": 6,
       "reference":"S-0006",
+      "valide": true,
+      "statut": "En étude",
+      "CodeTypeClient": "2",
+      "ChiffreAffaire": "800000",
+      "montantFinancementHT": 100000,
       "natureBien": {
-        "code": "N001",
-        "libelle": "Automobile"
+        "id": 0,
+        "bienid": 0,
+        "code": "BT01",
+        "libelle": "Transport",
+        "tauxVR": 1,
+        "libelleCourt": "MATERIEL I",
+        "categorieContrat": "CBM"
       },
-      "customer":{
-        "TypeClient": "Physique",
+      "CodeNatureBien": "BT01",
+      "simulations": [
+        {
+          "taux": "%",
+          "plm": 10000,
+          "dureeMois": 108,
+          "montantVR": 1000,
+          "montantEcheanceHT": 1364.24,
+          "montantEcheanceTTC": 1637.09
+        }
+      ],
+      "typeProposition": true,
+      "customer": {
+        "CodeTypeClient": "2",
         "RS": "PCA",
-        "Tel": "0654343768",
+        "Nom": "SALMAN",
+        "Prenom": "SALMAN",
+        "Tel": "90907676",
         "Email": "sfahmi@pca.ma",
-        "ChiffreAffaire": "1000000",
-        "nom": "Fahmi",
-        "prenom": "Salman",
-        "RC": "RC1000001",
-        "ICE": "ICE100001"
-      },
-      "montantHT": 2000000,
-      "valide": true
+        "ChiffreAffaire": "800000"
+      }
     }
   ]
 }
