@@ -104,7 +104,7 @@
       "CodeNatureBien": "BT01",
       "simulations": [
         {
-          "taux": "%",
+          "taux": "MAD",
           "plm": 10000,
           "dureeMois": 108,
           "montantVR": 1000,
@@ -143,7 +143,7 @@
       "CodeNatureBien": "BT01",
       "simulations": [
         {
-          "taux": "%",
+          "taux": "MAD",
           "plm": 10000,
           "dureeMois": 108,
           "montantVR": 1000,
@@ -182,7 +182,7 @@
       "CodeNatureBien": "BT01",
       "simulations": [
         {
-          "taux": "%",
+          "taux": "MAD",
           "plm": 10000,
           "dureeMois": 108,
           "montantVR": 1000,
@@ -221,7 +221,7 @@
       "CodeNatureBien": "BT01",
       "simulations": [
         {
-          "taux": "%",
+          "taux": "MAD",
           "plm": 10000,
           "dureeMois": 108,
           "montantVR": 1000,
@@ -260,7 +260,7 @@
       "CodeNatureBien": "BT01",
       "simulations": [
         {
-          "taux": "%",
+          "taux": "MAD",
           "plm": 10000,
           "dureeMois": 108,
           "montantVR": 1000,
@@ -299,7 +299,7 @@
       "CodeNatureBien": "BT01",
       "simulations": [
         {
-          "taux": "%",
+          "taux": "MAD",
           "plm": 10000,
           "dureeMois": 108,
           "montantVR": 1000,
