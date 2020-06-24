@@ -165,7 +165,7 @@
     {
       "id": 3,
       "reference":"S-0003",
-      "valide": true,
+      "valide": false,
       "statut": "En étude",
       "CodeTypeClient": "2",
       "ChiffreAffaire": "800000",
@@ -204,7 +204,7 @@
     {
       "id": 4,
       "reference":"S-0004",
-      "valide": true,
+      "valide": false,
       "statut": "En étude",
       "CodeTypeClient": "2",
       "ChiffreAffaire": "800000",
@@ -242,7 +242,7 @@
     },
     {
       "id": 5,
-      "reference":"S-0005",
+      "reference":"PR-0005",
       "valide": true,
       "statut": "En étude",
       "CodeTypeClient": "2",
@@ -281,7 +281,7 @@
     },
     {
       "id": 6,
-      "reference":"S-0006",
+      "reference":"PR-0006",
       "valide": true,
       "statut": "En étude",
       "CodeTypeClient": "2",
