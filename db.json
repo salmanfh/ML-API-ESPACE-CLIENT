@@ -307,6 +307,16 @@
           "montantEcheanceTTC": 1637.09
         }
       ],
+      "goods": [
+        {
+        "PrixUnitaireHT": "1000000.00",
+        "additionalFees": [],
+        "codeTaxe": 0,
+        "designation": "Desi",
+        "montantTTC": "1000000.00",
+        "qte": 1
+        }
+        ],
       "typeProposition": true,
       "customer": {
         "CodeTypeClient": "2",
